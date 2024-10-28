@@ -34,7 +34,7 @@ class Map extends React.Component {
   };
 
   setEdgesData = async () => {
-    await fetch("http://localhost:4000/friends-list", {
+    await fetch("https://connectingworld-back-end.onrender.com/friends-list", {
       method: "get",
       headers: { "Content-Type": "application/json" },
       credentials: "include",

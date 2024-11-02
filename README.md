@@ -1,7 +1,7 @@
 # Connecting World
 Connecting World is a full-stack web application designed to map social connections using graph data structures, where each node represents a user and each edge represents a relationship. This project serves as a platform to visualize and interact with social networks, allowing users to explore connections dynamically and intuitively.
 
-
+## 🌐 Live @ https://connectingworld-fe.onrender.com
 
 ## Table of Contents
 - [Features](#features)
